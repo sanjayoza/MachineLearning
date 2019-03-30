@@ -7,4 +7,7 @@ Telecom
 Predict if a customer will stay or leave a Service Provider/Telecom provider. The dataset was
 downloaded from Kaagle. 
 
+SFOTraffic
+Visualization of the airline traffic at the SFO (San Francisco airport), dataset was downloaded from Kaggle.
+
 
